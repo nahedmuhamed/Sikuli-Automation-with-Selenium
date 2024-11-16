@@ -39,7 +39,6 @@ The project follows best practices for automation and clean code development, en
 ## Drive Link that have Jar files for Task1, Task2 and Task3:
 - [JarFiles](https://drive.google.com/drive/folders/1mNYj1ByL_-mNaEC8RtwNo9T97PRVs-Bt?usp=drive_link)
 
-- **Java Development Kit (JDK 8+)**: Required to run the Selenium-based automation tests.
 ## Conclusion:
 
 This repository demonstrates a comprehensive automation workflow using **Selenium** and **Sikuli** to automate Excel data manipulation, sorting, and email sending. The project follows clean code principles and modular design, making it easy to extend and maintain for future use cases.
