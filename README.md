@@ -31,12 +31,18 @@ The project follows best practices for automation and clean code development, en
 - **Java Development Kit (JDK 8+)**: Required to run the Selenium-based automation tests.
 - **Maven**: For managing dependencies and running the tests.
 - **Selenium WebDriver**: Used for automating the interaction with web services.
+- **ChromeDriver**: used in conjunction with Selenium WebDriver for testing web applications.
 - **Sikuli**: For visual automation and interacting with the Excel file.
 - **Python 3.x**: For the bonus task, utilizing Python for data manipulation.
 - **Pandas**: A Python library used in Task 3 for data cleaning and statistical analysis.
+  
+## Drive Link that have Jar files for Task1, Task2 and Task3:
+- [JarFiles](https://drive.google.com/drive/folders/1mNYj1ByL_-mNaEC8RtwNo9T97PRVs-Bt?usp=drive_link)
 
+- **Java Development Kit (JDK 8+)**: Required to run the Selenium-based automation tests.
 ## Conclusion:
 
 This repository demonstrates a comprehensive automation workflow using **Selenium** and **Sikuli** to automate Excel data manipulation, sorting, and email sending. The project follows clean code principles and modular design, making it easy to extend and maintain for future use cases.
+
 
 Feel free to explore the repository, suggest improvements, or contribute to its development!
